@@ -1,0 +1,24 @@
+{
+  "name": "js-task",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "nodemon ./main.js localhost 3000",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/uzitau/js-task.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/uzitau/js-task/issues"
+  },
+  "homepage": "https://github.com/uzitau/js-task#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.21"
+  }
+}
